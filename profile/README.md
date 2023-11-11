@@ -24,3 +24,8 @@ curl -L https://exohuman.io/set-up | sh
 
 ##
 
+<div align="center">
+    <a href="https://github.com/rgsaura/DotFiles-" style="margin-right: 20px;">Purpose</a> -
+    <a href="https://github.com/rgsaura/Useful_Scripts" style="margin-right: 20px;">Framework</a> -
+    <a href="https://github.com/rgsaura/Favorite_Browser_Extensions">Academy</a>
+</div>
