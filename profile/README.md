@@ -6,7 +6,7 @@
   
 
 ```bash
-curl -L https://cli.exohuman.io/use | sh
+curl -sL https://cli.exohuman.io/use | sh
 ```
 <h3 align="center">Helping you build a personalized UI and centralized BackEnd System</h3>
 
